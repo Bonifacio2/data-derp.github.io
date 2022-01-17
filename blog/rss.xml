@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Data Derp Blog</title>
+        <link>https://data-derp.github.io/blog</link>
+        <description>Data Derp Blog</description>
+        <lastBuildDate>Sun, 28 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome to Data Derp]]></title>
+            <link>https://data-derp.github.io/blog/welcome-to-data-derp</link>
+            <guid>welcome-to-data-derp</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><figure class="video-container"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6iFbuIpe68k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></figure>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

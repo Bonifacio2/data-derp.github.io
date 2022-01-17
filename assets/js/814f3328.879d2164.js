@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdata_derp=self.webpackChunkdata_derp||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Data Derp","permalink":"/blog/welcome-to-data-derp"}]}')}}]);
