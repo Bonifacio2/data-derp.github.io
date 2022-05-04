@@ -6,7 +6,6 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://data-derp.github.io/blog"/>
     <subtitle>Data Derp Blog</subtitle>
-    <icon>https://data-derp.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to Data Derp]]></title>
         <id>welcome-to-data-derp</id>
